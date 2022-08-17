@@ -1,0 +1,58 @@
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+}
+
+input {
+    padding: 20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: none;
+    margin: 5px;
+}
+
+.num {
+    width: 65px;
+    height: 65px;
+}
+
+.visor {
+    width: 184px;
+    height: 20px;
+}
+
+.Limpar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.main {
+    padding: 25px;
+    background-color: darkgray;
+}
+
+.maincolor {
+    background-color: #fff;
+}
+
+.blue {
+    background-color: cornflowerblue;
+}
+
+.pin {
+    background-color: blueviolet;
+}
+
+.gre {
+    background-color: aquamarine;
+}
+
+.ora {
+    background-color: coral;
+}
